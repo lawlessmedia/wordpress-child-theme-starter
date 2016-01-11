@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Wordpress Child Theme
+ Theme URI:    http://lawlessmedia.com
+ Description:  Child Theme Starter 
+ Author:       Lawless Media
+ Author URI:   http://lawlessmedia.com
+ Template:     Lawless Media Child Theme
+ Version:      1.0.0
+*/
+
+/* 
+  Theme color guide
+  put color for style guidelines here for easy reference during theme development
+*/
+
+/* standard overrides */
+html {
+  font-size: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #000;
+}
+a:visited {
+  color: #666;
+}
+a:hover, a:focus, a:active {
+  color: #999;
+  text-decoration: none;
+}
